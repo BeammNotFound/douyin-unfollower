@@ -22,5 +22,6 @@ python .douyin_unfollow.py
 
 > Enjoy your coffee!☕️
 
+<br>
 
-***⚠️不要频繁一次性取消关注很多人，否则会弹验证码***
+***⚠️不要频繁一次性取消关注太多人，否则会弹验证码***
