@@ -1,5 +1,4 @@
 from playwright.sync_api import sync_playwright
-import time
 
 def save_login_state():
     with sync_playwright() as p:
